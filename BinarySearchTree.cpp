@@ -191,7 +191,7 @@ void preOrder(Node* root) {
 int main() {
 	
 	string filename, word;
-	unordered_map<string, int> mp;
+
 
 	cin>>filename;
 
