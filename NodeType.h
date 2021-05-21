@@ -9,3 +9,15 @@ struct BTNode{
 	BTNode * left;
 	BTNode * right;
 };
+
+
+// structure for BST node
+struct Node{
+	string data;
+	int count;
+	Node * left;
+	Node * right;
+	Node * parent;
+};
+
+
