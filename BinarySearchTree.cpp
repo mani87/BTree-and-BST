@@ -192,7 +192,6 @@ int main() {
 	
 	string filename, word;
 
-
 	cin>>filename;
 
 	// Read file - words.txt
